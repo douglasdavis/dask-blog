@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histogramming with Dask
-author: Doug Davis
+author: <a href="https://ddavis.io/">Doug Davis</a> (Anaconda)
 tags: [histogram, array, dask]
 theme: twitter
 ---
